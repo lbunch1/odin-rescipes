@@ -1,1 +1,2 @@
 # odin-rescipes
+In this project I will be making a simple recipe website. It won't look very pretty, but it's purpose is to renforce the knowledge and skills I've gained thus far with The Odin Project and develope good workflow skills.
